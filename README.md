@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Pathfinding Visualizer --- React.js and Dijkstra's Algorithm
+
+Try Live: https://dijkstra-visualizer.netlify.app/
+
+____________________________________________________________________________________________________________________________
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
