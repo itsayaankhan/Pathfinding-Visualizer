@@ -1,4 +1,13 @@
 # Pathfinding Visualizer --- React.js and Dijkstra's Algorithm
+____________________________________________________________________________________________________________________________
+This Pathfinding Algorithm project was created by Clement Mihailescu, the founder of AlgoExpert and former Google Engineer.
+This project was more of a learning experience, rather than a personal project. I wanted to learn about the pathfinding algo-
+rithms such as Dijkstra's Algorithm, A*, and Depth First Search (DFS). This was a very fun project to code along with. Some of 
+the changes I made to the code was changing the board to a more modernized node grid format. I also fixed the event list-
+eners for creating and removing blocking nodes and barriers, since it was tweaking a lot on his example. Finally, I cleaned up the
+code. 
+
+Clement Mihailescu Code: https://github.com/clementmihailescu/Pathfinding-Visualizer
 
 Try Live: https://dijkstra-visualizer.netlify.app/
 
